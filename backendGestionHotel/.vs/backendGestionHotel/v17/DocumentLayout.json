@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\source\\repos\\backendGestionHotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC7115D-0DBF-4FFE-9D64-5BF5F3EC0401}|backendGestionHotel.csproj|c:\\users\\gabri\\source\\repos\\backendgestionhotel\\models\\reservasmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC7115D-0DBF-4FFE-9D64-5BF5F3EC0401}|backendGestionHotel.csproj|solutionrelative:models\\reservasmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC7115D-0DBF-4FFE-9D64-5BF5F3EC0401}|backendGestionHotel.csproj|c:\\users\\gabri\\source\\repos\\backendgestionhotel\\models\\huespedesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC7115D-0DBF-4FFE-9D64-5BF5F3EC0401}|backendGestionHotel.csproj|solutionrelative:models\\huespedesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC7115D-0DBF-4FFE-9D64-5BF5F3EC0401}|backendGestionHotel.csproj|c:\\users\\gabri\\source\\repos\\backendgestionhotel\\migrations\\20250919173421_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC7115D-0DBF-4FFE-9D64-5BF5F3EC0401}|backendGestionHotel.csproj|solutionrelative:migrations\\20250919173421_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC7115D-0DBF-4FFE-9D64-5BF5F3EC0401}|backendGestionHotel.csproj|c:\\users\\gabri\\source\\repos\\backendgestionhotel\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC7115D-0DBF-4FFE-9D64-5BF5F3EC0401}|backendGestionHotel.csproj|solutionrelative:controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC7115D-0DBF-4FFE-9D64-5BF5F3EC0401}|backendGestionHotel.csproj|c:\\users\\gabri\\source\\repos\\backendgestionhotel\\controllers\\huespedescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC7115D-0DBF-4FFE-9D64-5BF5F3EC0401}|backendGestionHotel.csproj|solutionrelative:controllers\\huespedescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC7115D-0DBF-4FFE-9D64-5BF5F3EC0401}|backendGestionHotel.csproj|c:\\users\\gabri\\source\\repos\\backendgestionhotel\\controllers\\habitacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC7115D-0DBF-4FFE-9D64-5BF5F3EC0401}|backendGestionHotel.csproj|solutionrelative:controllers\\habitacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC7115D-0DBF-4FFE-9D64-5BF5F3EC0401}|backendGestionHotel.csproj|c:\\users\\gabri\\source\\repos\\backendgestionhotel\\models\\habitacionesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC7115D-0DBF-4FFE-9D64-5BF5F3EC0401}|backendGestionHotel.csproj|solutionrelative:models\\habitacionesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC7115D-0DBF-4FFE-9D64-5BF5F3EC0401}|backendGestionHotel.csproj|c:\\users\\gabri\\source\\repos\\backendgestionhotel\\backendgestionhotel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7CC7115D-0DBF-4FFE-9D64-5BF5F3EC0401}|backendGestionHotel.csproj|solutionrelative:backendgestionhotel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC7115D-0DBF-4FFE-9D64-5BF5F3EC0401}|backendGestionHotel.csproj|c:\\users\\gabri\\source\\repos\\backendgestionhotel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CC7115D-0DBF-4FFE-9D64-5BF5F3EC0401}|backendGestionHotel.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC7115D-0DBF-4FFE-9D64-5BF5F3EC0401}|backendGestionHotel.csproj|c:\\users\\gabri\\source\\repos\\backendgestionhotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC7115D-0DBF-4FFE-9D64-5BF5F3EC0401}|backendGestionHotel.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC7115D-0DBF-4FFE-9D64-5BF5F3EC0401}|backendGestionHotel.csproj|c:\\users\\gabri\\source\\repos\\backendgestionhotel\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC7115D-0DBF-4FFE-9D64-5BF5F3EC0401}|backendGestionHotel.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250919173421_inicial.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\backendGestionHotel\\Migrations\\20250919173421_inicial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250919173421_inicial.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\backendGestionHotel\\Migrations\\20250919173421_inicial.cs",
+              "RelativeToolTip": "Migrations\\20250919173421_inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T17:34:21.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReservasController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\backendGestionHotel\\Controllers\\ReservasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReservasController.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\backendGestionHotel\\Controllers\\ReservasController.cs",
+              "RelativeToolTip": "Controllers\\ReservasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T17:25:36.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HuespedesController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\backendGestionHotel\\Controllers\\HuespedesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HuespedesController.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\backendGestionHotel\\Controllers\\HuespedesController.cs",
+              "RelativeToolTip": "Controllers\\HuespedesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T17:24:26.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HabitacionesController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\backendGestionHotel\\Controllers\\HabitacionesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HabitacionesController.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\backendGestionHotel\\Controllers\\HabitacionesController.cs",
+              "RelativeToolTip": "Controllers\\HabitacionesController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T17:23:32.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\backendGestionHotel\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\backendGestionHotel\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-19T17:08:59.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservasModel.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\backendGestionHotel\\Models\\ReservasModel.cs",
+              "RelativeDocumentMoniker": "Models\\ReservasModel.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\backendGestionHotel\\Models\\ReservasModel.cs",
+              "RelativeToolTip": "Models\\ReservasModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T05:13:28.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HuespedesModel.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\backendGestionHotel\\Models\\HuespedesModel.cs",
+              "RelativeDocumentMoniker": "Models\\HuespedesModel.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\backendGestionHotel\\Models\\HuespedesModel.cs",
+              "RelativeToolTip": "Models\\HuespedesModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T05:12:46.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HabitacionesModel.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\backendGestionHotel\\Models\\HabitacionesModel.cs",
+              "RelativeDocumentMoniker": "Models\\HabitacionesModel.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\backendGestionHotel\\Models\\HabitacionesModel.cs",
+              "RelativeToolTip": "Models\\HabitacionesModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T05:12:03.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\backendGestionHotel\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\backendGestionHotel\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T04:56:45.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\backendGestionHotel\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\backendGestionHotel\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T04:52:01.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "backendGestionHotel.csproj",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\backendGestionHotel\\backendGestionHotel.csproj",
+              "RelativeDocumentMoniker": "backendGestionHotel.csproj",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\backendGestionHotel\\backendGestionHotel.csproj",
+              "RelativeToolTip": "backendGestionHotel.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-19T04:48:57.757Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

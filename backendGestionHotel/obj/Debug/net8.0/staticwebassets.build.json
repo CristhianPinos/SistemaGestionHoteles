@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "2HB9tIJO1RRTTwKnkoctZVwI650BGWExI9obEA6JdGY=",
+  "Source": "backendGestionHotel",
+  "BasePath": "_content/backendGestionHotel",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
