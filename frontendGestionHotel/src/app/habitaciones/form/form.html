@@ -1,0 +1,77 @@
+<div class="container-centered">
+  <div class="card shadow-sm">
+    <div class="card-header bg-primary text-white">
+      <h4 class="mb-0">{{ editMode ? 'Editar habitación' : 'Nueva habitación' }}</h4>
+    </div>
+    <div class="card-body">
+      <form (ngSubmit)="save()" #habitacionForm="ngForm" novalidate>
+
+        <div class="mb-3">
+          <label for="numero" class="form-label">Número</label>
+          <input 
+            id="numero" 
+            type="text"
+            name="numero" 
+            [(ngModel)]="habitacion.numero" 
+            class="form-control" 
+            required 
+            #numeroModel="ngModel">
+          <div *ngIf="numeroModel.invalid && numeroModel.touched" class="text-danger small">
+            El número de habitación es obligatorio.
+          </div>
+        </div>
+
+        <div class="mb-3">
+          <label for="tipo" class="form-label">Tipo</label>
+          <input 
+            id="tipo" 
+            name="tipo" 
+            [(ngModel)]="habitacion.tipo" 
+            class="form-control" 
+            required 
+            #tipoModel="ngModel">
+          <div *ngIf="tipoModel.invalid && tipoModel.touched" class="text-danger small">
+            El tipo es obligatorio.
+          </div>
+        </div>
+
+        <div class="mb-3">
+          <label for="precio" class="form-label">Precio (USD)</label>
+          <input 
+            id="precio" 
+            type="number" 
+            name="precio" 
+            [(ngModel)]="habitacion.precio" 
+            class="form-control" 
+            required 
+            min="1"
+            #precioModel="ngModel">
+          <div *ngIf="precioModel.invalid && precioModel.touched" class="text-danger small">
+            El precio debe ser mayor a 0.
+          </div>
+        </div>
+
+        <div class="form-check mb-3">
+          <input 
+            id="disponible" 
+            type="checkbox" 
+            name="disponible" 
+            [(ngModel)]="habitacion.disponible" 
+            class="form-check-input">
+          <label for="disponible" class="form-check-label">Disponible</label>
+        </div>
+
+        <div class="d-flex justify-content-end">
+          <button 
+            type="submit" 
+            class="btn btn-success me-2" 
+            [disabled]="habitacionForm.invalid">
+            {{ editMode ? 'Actualizar' : 'Guardar' }}
+          </button>
+          <a routerLink="/habitaciones" class="btn btn-secondary">Cancelar</a>
+        </div>
+
+      </form>
+    </div>
+  </div>
+</div>

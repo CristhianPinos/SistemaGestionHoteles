@@ -1,0 +1,50 @@
+<div class="container-centered">
+    <div class="list-header">
+    <h2 class="mb-0">Habitaciones</h2>
+    <a routerLink="/habitaciones/new" class="btn btn-primary btn-new">
+      <i class="bi bi-plus-circle me-1"></i> Nueva habitación
+    </a>
+  </div>
+
+<div class="card shadow-sm">
+  <div class="card-body p-0">
+    <table class="table table-hover table-bordered mb-0 align-middle">
+      <thead class="table-dark">
+        <tr>
+          <th>ID</th>
+          <th>Número</th>
+          <th>Tipo</th>
+          <th>Precio</th>
+          <th>Disponible</th>
+          <th class="text-center">Acciones</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let h of habitaciones">
+          <td>{{ h.habitacionId }}</td>
+          <td>{{ h.numero }}</td>
+          <td>{{ h.tipo }}</td>
+          <td>{{ h.precio | currency:'USD' }}</td>
+          <td>
+            <span class="badge" 
+                  [class.bg-success]="h.disponible" 
+                  [class.bg-danger]="!h.disponible">
+              {{ h.disponible ? 'Sí' : 'No' }}
+            </span>
+          </td>
+          <td class="text-center">
+            <a [routerLink]="['/habitaciones/edit', h.habitacionId]" class="btn btn-sm btn-warning me-1">
+              Editar
+            </a>
+            <button (click)="deleteHabitacion(h.habitacionId!)" class="btn btn-sm btn-danger">
+              Eliminar
+            </button>
+          </td>
+        </tr>
+        <tr *ngIf="habitaciones.length === 0">
+          <td colspan="6" class="text-center text-muted">No hay habitaciones registradas.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
